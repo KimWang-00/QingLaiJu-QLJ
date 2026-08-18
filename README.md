@@ -2,7 +2,7 @@
 
 AI 短剧制作工作台 — 从剧本到成片的一站式 AI 创作平台
 
-![版本](https://img.shields.io/badge/version-2.0.0-blue)
+![版本](https://img.shields.io/badge/version-2.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-yellow)
 
 ## 简介
@@ -21,6 +21,7 @@ AI 短剧制作工作台 — 从剧本到成片的一站式 AI 创作平台
 | 🪄 文本转3D | 文本描述生成 3D 模型 |
 | 🎬 剪辑导演台 | 视频剪辑、拼接、导出 |
 | 📼 生成视频库 | 管理所有 AI 生成的视频片段 |
+| 💬 智能助手 | AI 对话与指令执行，完全访问模式（文件读写/命令，先审批后备份可回退） |
 
 ## 技术栈
 
